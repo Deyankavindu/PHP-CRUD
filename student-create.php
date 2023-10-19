@@ -39,7 +39,7 @@ session_start();
                                 </div>
                                 <div class="mb-3">
                                     <label>Phone Number</label>
-                                    <input type="number" name="pnumber" class="form-control" required>
+                                    <input type="number" name="number" class="form-control" required>
                                 </div>
                                 <div class="mb-3">
                                     <label>Course</label>
